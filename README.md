@@ -5,7 +5,7 @@ Para saber cuales son, filtre y ordene las habilidades en los roles mas relevant
 Se puede ver el proceso realizado aqui: [projectpt2.ipynb]
 
 Resultados:
-[Visualizacion del analisis] (imagenes\habilidades.png)
+[Visualizacion del analisis](imagenes\habilidades.png)
 
 #¿Cual es la zona principal en Chile con mayor posibilidad de encontrar trabajo en Ciencia de datos?
 
