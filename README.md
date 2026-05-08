@@ -5,21 +5,21 @@ Para saber cuales son, filtre y ordene las habilidades en los roles mas relevant
 Se puede ver el proceso realizado aqui: [projectpt2.ipynb]
 
 Resultados:
-[Visualizacion del analisis](imagenes\habilidades.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/78a9da221b425a1ffb5f1d195aeca52ea0eacf2e/imagenes/habilidades.png)
 
 #¿Cual es la zona principal en Chile con mayor posibilidad de encontrar trabajo en Ciencia de datos?
 
 Para saber cuales son filtre los datos extraidos por pais y por profesión y fueron representadas en un grafico de barra horizontal.
 
 Resultados:
-[Visualizacion del analisis](imagenes\DS_ch.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/78a9da221b425a1ffb5f1d195aeca52ea0eacf2e/imagenes/DS_ch.png)
 
 #¿Como se reparten los trabajos en relacion a su modalidad y requerimiento de formacion academica?
 
 En el mismo proceso de filtracion de datos anteriormente mencionado se realizo otro proceso para poder calcular el porcentaje de ofertas de trabajos que ofrecen modalidad presencial o remota. De la misma forma se determino el porcentade de ofertas que requieren alguna clase de titulo profesional y/o formacion academica
 
 Resultados:
-[Visualizacion del analisis](imagenes\graficos.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/78a9da221b425a1ffb5f1d195aeca52ea0eacf2e/imagenes/graficos.png)
 
 Se puede ver el proceso realizado aqui: [projectpt1.ipynb]
 
@@ -28,7 +28,7 @@ Se puede ver el proceso realizado aqui: [projectpt1.ipynb]
 En este proceso de filtracion se tomaron varias plataformas con ofertas de trabajo con el objetivo de analizar las habilidades requeridas mas relevantes dentro de los 12 meses del año y como van cambiando a medida que este progresa.
 
 Resultados:
-[Visualizacion del analisis](imagenes\grafico2.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/2e0c0fc0c7eed705ab7f32286452948bb5484445/imagenes/grafico2.png)
 
 Se puede ver el proceso realizado aqui: [projectpt3.ipynb]
 
@@ -37,13 +37,13 @@ Se puede ver el proceso realizado aqui: [projectpt3.ipynb]
 En este proceso decidi mostrar el rango de los salarios anuales de trabajos relacionados con datos(Ciencia de datos, Analisis de datos, Ingeniero de datos, Machine learning) en Chile y visualizarlos como diagramas de caja.
 
 Resultados:
-[Visualizacion del analisis](imagenes\boxplot.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/2e0c0fc0c7eed705ab7f32286452948bb5484445/imagenes/boxplot.png)
 
 
 De la misma forma decidi mostrar las 10 habilidades en demanda y mejor pagadas dentro de la Ciencia de datos y representarlas como graficos de barras horizontales.
 
 Resultados:
-[Visualizacion del analisis](imagenes\barh.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/2e0c0fc0c7eed705ab7f32286452948bb5484445/imagenes/barh.png)
 
 Se puede ver el proceso realizado aqui: [projectpt4.ipynb]
 
@@ -51,6 +51,6 @@ Se puede ver el proceso realizado aqui: [projectpt4.ipynb]
 
 Este diagrama de dispercion explica las habilidades que mas convienen aprender para la formacion como cientifico de datos en Chile y que tan bien son pagadas
 Resultados:
-[Visualizacion del analisis](imagenes\scatter.png)
+[Visualizacion del analisis](https://github.com/JavierReb22/proyecto/blob/2e0c0fc0c7eed705ab7f32286452948bb5484445/imagenes/scatter.png)
 
 Se puede ver el proceso realizado aqui: [projectpt5.ipynb]
